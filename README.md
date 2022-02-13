@@ -33,5 +33,5 @@ print("Product of two arrays is:",product)
 ![output](1.png)
 
 ## RESULT:
-Thus the program to find the product of two arrays using numpy has been verfied successfuly using python programming.
+Thus the program to find the product of two arrays using numpy has been verfied successfuly using python programming .
 
